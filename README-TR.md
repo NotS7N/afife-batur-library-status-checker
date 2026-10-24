@@ -1,5 +1,5 @@
 # Afife Batur Library Status Checker
-
+!!! Şuan bazı buglar var en yakın zamanda düzelticem
 son zamanlarda afife batur kütüphanesine giderken sistem sürekli çöküyor ve rezervasyon alamıyorum. Zaten bi rezervasyon alma yarışı var hemen dolduğu için sistem geldiğinde hemen öğrenmek istiyordum. Sistem geldiğinde bilgisayarıma mesaj olarak sistem geldi diye mesaj gönderen bi kod yazdım, isterseniz kullanabilirsiniz
 
 # Nasıl çalışıyor?
